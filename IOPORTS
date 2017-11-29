@@ -1,0 +1,24 @@
+00-0F DMA1 (8237)
+20-21 Interrupt Controller 1 (8259)
+40-43 Timer (8253)
+60-6F Keyboard (8042)
+70-7F Real-time Clock NMI
+80-9F DMA Page Register
+A0-BF Interrupt Controller 2 (8259)
+CO-DF DMA 2 (8237)
+F0-FF Math Processor
+
+1F0-1F8 Fixed Disk
+200-207 Game Port
+278-27F Parallel Port 2 (LPT2)
+2F8-2FF Serial Port 2 (COM2)
+300-31F Prototype Card
+360-36F Reserved
+378-37F Parallel Port 1 (LPT1)
+380-38F SDLC, Bisync2 (If Any)
+3A0-3AF Bisync1 (If Any)
+3B0-3BF Monochrome Display Controller
+3C0-3CF Reserved
+3D0-3DF CGA Display Adapter
+3F0-3F7 Diskette Controller
+3F8-3FF Serial Port 1 (COM1)
